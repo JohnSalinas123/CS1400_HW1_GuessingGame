@@ -1,4 +1,4 @@
-# CS2400_HW1_GuessingGame
+# CS1400_HW1_GuessingGame
 ## a program that asks the computer to guess a number between 1 and 100, that the user has selected
 
 Write a program that plays a 'number guessing game'.  Note that the player picks the number and the program attempts to determine the number chosen.  The algorithm:
